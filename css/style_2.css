@@ -1,0 +1,58 @@
+#container{
+	margin: 10px 10px 10px 10px;
+	background-color: #fff;
+	/**/
+}
+
+#first{
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 40px;
+	
+}
+ #second{
+	font-weight: bold;
+	font-size: 20px;
+	margin-right: 20px;
+	float: left;
+	margin-top: 5px;
+
+}
+#second2{
+	font-weight: normal;
+	font-size: 20px;
+	margin-right: 20px;
+	
+	margin-top: 5px;
+
+}
+ #second div{
+	font-weight: normal;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+#clear_1{
+	clear: both;
+}
+#clear_2{
+	clear: both;
+}
+
+#left{
+	background-color: #65a5fa;
+	float: left;
+	color: #65a5fa;
+	height: 100vh;
+	text-align: center;
+	width: 200px;
+	
+}
+#main{
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+h1{
+	color: #fff;
+	
+}
